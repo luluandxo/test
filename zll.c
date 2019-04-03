@@ -1,3 +1,4 @@
 #include <stdio>
 
-main{int a;} 
+main{int a;
+    reture 0;} 
